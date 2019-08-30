@@ -1,0 +1,11 @@
+D:\DB\DB\bin\Debug\DB.exe.config
+D:\DB\DB\bin\Debug\DB.exe
+D:\DB\DB\bin\Debug\DB.pdb
+D:\DB\DB\obj\Debug\DB.Form1.resources
+D:\DB\DB\obj\Debug\DB.Properties.Resources.resources
+D:\DB\DB\obj\Debug\DB.csproj.GenerateResource.Cache
+D:\DB\DB\obj\Debug\DB.exe
+D:\DB\DB\obj\Debug\DB.pdb
+D:\DB\DB\bin\Debug\Database1.mdf
+D:\DB\DB\bin\Debug\Database1_log.ldf
+D:\DB\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
